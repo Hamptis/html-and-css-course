@@ -1,0 +1,13 @@
+.inbox {
+  font-family: arial;
+  color: gray;
+}
+
+.capoo {
+  width: 50px;
+  border-radius: 25px;
+}
+
+.top-row {
+  display: flex;
+}
